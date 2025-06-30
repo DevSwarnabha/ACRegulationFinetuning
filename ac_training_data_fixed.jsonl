@@ -1,0 +1,20 @@
+{"instruction": "Set AC temperature", "input": "Outside Temp: 38\u00b0C, People: 4", "output": "Set AC to 22\u00b0C. High temperature and multiple people require stronger cooling."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 33\u00b0C, People: 0", "output": "Turn off AC or raise to 28\u00b0C. Room is unoccupied."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 36\u00b0C, People: 2", "output": "Set AC to 23\u00b0C. High temperature, moderate occupancy."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 29\u00b0C, People: 1", "output": "Set AC to 25\u00b0C. Mild weather, one person."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 40\u00b0C, People: 5", "output": "Set AC to 21\u00b0C. Extreme heat and full room."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 31\u00b0C, People: 0", "output": "Turn off AC. No occupants."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 35\u00b0C, People: 3", "output": "Set AC to 23\u00b0C. Balanced between comfort and saving."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 27\u00b0C, People: 2", "output": "Set AC to 25\u00b0C. Cooler day, light occupancy."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 30\u00b0C, People: 1", "output": "Set AC to 24\u00b0C. Typical single-person setting."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 39\u00b0C, People: 0", "output": "Raise to 28\u00b0C or turn off. No one is present."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 32\u00b0C, People: 4", "output": "Set AC to 23\u00b0C. High occupancy, moderate heat."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 37\u00b0C, People: 3", "output": "Set AC to 22\u00b0C. High heat and several people."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 26\u00b0C, People: 1", "output": "Set AC to 26\u00b0C. Minimal cooling needed."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 34\u00b0C, People: 0", "output": "Raise to 28\u00b0C or turn off AC. Room is empty."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 35\u00b0C, People: 1", "output": "Set AC to 24\u00b0C. One person in hot weather."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 28\u00b0C, People: 2", "output": "Set AC to 25\u00b0C. Moderate comfort needed."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 36\u00b0C, People: 5", "output": "Set AC to 22\u00b0C. Full room and hot conditions."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 30\u00b0C, People: 0", "output": "Turn off AC. No occupants."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 39\u00b0C, People: 2", "output": "Set AC to 22\u00b0C. Strong cooling needed for high temperature."}
+{"instruction": "Set AC temperature", "input": "Outside Temp: 33\u00b0C, People: 3", "output": "Set AC to 23\u00b0C. Ideal for comfort and efficiency."}
